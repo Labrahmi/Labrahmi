@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Labrahmi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScipt
-- 💞️websites I'm looking to collaborate on building services
+- 🌱 I’m currently learning JavaScript
+- 💞️ I'm looking to collaborate on building services websites
 - 📫 <a href="https://t.me/youssef_io">my telegram</a>
 
 <!---
