@@ -1,3 +1,5 @@
+[![ylabrahm's 42 stats](https://badge42.vercel.app/api/v2/cl9oekxzi00450gmdu1hi2rb2/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 - 👋 Hi, I’m @Labrahmi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
