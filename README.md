@@ -1,16 +1,37 @@
-<h1 align="center">Hi 👋, I'm Youssef Labrahmi</h1>
+# Hello there! 👋
 
-<p align="left">
+## 🙋‍♂️ About Me
+- 🔭 I'm currently working on **Cub3d**
+- 🌱 Learning more about **Web Development, Unix and OOP**
+- 🎓 Bachelor's degree in IT, 1337 coding school student (42 Network)
+<hr>
+
+## 🛠 Tech Stack
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+  ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+  ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000000?style=flat-square&logo=express&logoColor=white)
+
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+  ![MySql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+<hr>
+
+## 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labrahmi&" alt="labrahmi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=labrahmi&show_icons=true&locale=en&layout=compact" alt="labrahmi" />
 </p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=labrahmi&show_icons=true&locale=en&layout=compact" alt="labrahmi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labrahmi&show_icons=true&locale=en" alt="labrahmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labrahmi&" alt="labrahmi" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labrahmi&label=Profile%20views&color=0e75b6&style=flat" alt="labrahmi" /> </p>
+## 🌎 Let's connect!
+- 🐦 Twitter: [@ylabrahmi](https://x.com/ylabrahmi)
+- 🌐 Portfolio: [youe.me](https://youe.me)
+- 💼 LinkedIn: [Youssef Labrahmi](https://www.linkedin.com/in/labrahmiy/)
 
