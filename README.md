@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I'm currently working on **Cub3d**
 - 🌱 Learning more about **Web Development, Unix and OOP**
-- 🎓 Bachelor's degree in IT, 1337 coding school student (42 Network)
+- 🎓 Bachelor degree in IT, 1337 coding school student (42 Network)
 <hr>
 
 ## 🛠 Tech Stack
