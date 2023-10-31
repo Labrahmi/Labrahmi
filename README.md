@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 ## 🙋‍♂️ About Me
-- 🔭 I'm currently working on **Cub3d**
+- 🔭 I'm currently working on creating an HTTP server
 - 🌱 Learning more about **Web Development, Unix and OOP**
 - 🎓 Bachelor degree in IT, 1337 coding school student (42 Network)
 <hr>
