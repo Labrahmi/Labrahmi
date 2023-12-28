@@ -55,4 +55,4 @@ I'm a student at 1337 Coding School studying software engineering. I love workin
   </tr>
 </table>
 
-> For more project you can navigate to [repositories](./?tab=repositories) section.
+> For more project you can navigate to [repositories](https://github.com/Labrahmi?tab=repositories) section.
