@@ -1,5 +1,5 @@
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](./back.png)
-[![](https://visitcount.itsvg.in/api?id=Labrahmi&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](./back.png) <br>
+[![](https://visitcount.itsvg.in/api?id=Labrahmi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 # 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,mongo,express,react,nodejs,tailwind,docker,git,bash)](https://skillicons.dev)
@@ -22,3 +22,37 @@ I'm a student at 1337 Coding School studying software engineering. I love workin
 </p>
 <hr>
 
+
+## 🖇 Latest projects
+<table>
+  <th>#</th>
+  <th>Project</th>
+  <th>Description</th>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/Labrahmi/webserv">webserv</a></td>
+    <td>Webserv is an 42 curriculum project, a simple HTTP server build with c/c++, the program aims to teach server socket fundamentals, non blocking, file descriptors monitoring and CGI handling.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/Labrahmi/1337-logtime">1337-logtime</a></td>
+    <td>A simple NextJs app, that displays logtime for 1337 med students, crafted by the club of web dev.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/Labrahmi/cpp-module-09">cpp-modules</a></td>
+    <td>Cpp modules are set of exercice in the 42 curriculum, teaching the basics of the 98 version of C++, such as Templates, Exceptions, STL, Advanced Casting..</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://github.com/Labrahmi/node-docker">node-docker</a></td>
+    <td>Introduction to docker, by setting up an environment for a NodeJs App</td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td><a href="https://github.com/Labrahmi/cub3d">cub3d</a></td>
+    <td>A math-intensive graphic project employing raycasting to achieve a 3D illusion. Utilizing the MLX graphics library, pixel printing and manual labor reminiscent of 90s-era graphics are integral components of the process.</td>
+  </tr>
+</table>
+
+> For more project you can navigate to [repositories](./?tab=repositories) section.
