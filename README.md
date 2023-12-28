@@ -1,5 +1,5 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](./back.png) <br>
-[![](https://visitcount.itsvg.in/api?id=Labrahmi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Labrahmi&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,mongo,express,react,nodejs,tailwind,docker,git,bash)](https://skillicons.dev)
